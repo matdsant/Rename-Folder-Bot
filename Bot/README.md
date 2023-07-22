@@ -2,9 +2,9 @@
             Projeto de Renomeação de Pastas
 =========================================================
 
-Este projeto consiste em um script Python para renomear um conjunto de pastas em um determinado diretório. Ele foi criado com o objetivo de renomear um conjunto de pastas de "AulaXX" para "Aula XX", onde XX varia de 24 a 97.
+Este projeto consiste em um script Python para renomear um conjunto de pastas em um determinado diretório. Ele foi criado com o objetivo de renomear um conjunto de pastas de "xx" para "xx", onde XX varia de xx a xx.
 
-O script utiliza a biblioteca padrão do Python, `os`, para manipulação de arquivos e pastas no sistema operacional. Ele itera por uma faixa de números de 24 a 97 e renomeia as pastas correspondentes no diretório especificado.
+O script utiliza a biblioteca padrão do Python, `os`, para manipulação de arquivos e pastas no sistema operacional. Ele itera por uma faixa de números de xx a xx e renomeia as pastas correspondentes no diretório especificado.
 
 =========================================================
                       Instruções
